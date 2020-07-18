@@ -1,0 +1,56 @@
+  .boder{
+    border-bottom: 1px solid;
+    padding: 12px 14px;
+  }
+  .col-sm-4{
+    width: 320px;  
+    border:1px solid #ddd;
+    margin-top: 100px;
+    margin-left: 3px;
+  
+  }
+  .col-sm-4 b{
+    margin-top: 10px;
+    font-size: 25px;
+  }
+  .col-sm-4 img{
+    height: 220px;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  .float-between {
+    display: flex;
+    justify-content: space-between;
+  }
+  .float-between a{
+    font-weight: bold;
+    color: #ecad3f;
+    text-decoration: none;
+  }
+  .col-sm-4 .btn{
+    margin-top: -10px;
+  }
+  table{
+    margin-top: 20px;
+  }
+  button{
+    margin-left: 15px;
+  }
+  .AddProduct{
+    margin-left:620px;
+  }
+  .form-row{
+    margin-left: 10px;
+  }
+  .home{
+    display: flex;
+    
+  }
+  .add{
+    padding: 15px ;
+    width: 250px;
+    height: auto;
+    margin: 10px;
+    text-align: center;
+  }
+ 
